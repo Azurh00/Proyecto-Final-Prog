@@ -1,0 +1,36 @@
+{
+    "peliculas":[
+        {
+            "titulo": "Spider-Man: No Way Home",
+            "fecha": "13 de Diciembre de 2021",
+            "genero" :"Ciencia Ficcion",
+            "director" : "Jon Watts" ,
+            "duracion" : "148 Minutos",
+            "linkImagen": ""
+        },
+        {
+            "titulo": "sin novedad en el frente",
+            "fecha": "12 de Septiembre de 2022",
+            "genero" :"Accion ,Drama",
+            "director" : "Edward Berger" ,
+            "duracion" : "147 Minutos",
+            "linkImagen": ""
+        },
+        {
+            "titulo": "Brothers",
+            "fecha": "22 de Noviembre de 2009",
+            "genero" :"Drama",
+            "director" : "Jim Sheridan" ,
+            "duracion" : "105 minutos",
+            "linkImagen": ""
+        },
+        {
+            "titulo": "Spider-Man: No Way Home",
+            "fecha": "13 de Diciembre de 2021",
+            "genero" :"",
+            "director" : "" ,
+            "duracion" : "148 Minutos",
+            "linkImagen": ""
+        }
+    ]
+}

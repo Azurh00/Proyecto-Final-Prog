@@ -1,0 +1,15 @@
+{
+    "usuarios":[
+        {
+            "nombreUsuario": "Azurh",
+            "recomendacion":[
+                {
+                    "titulo": "Warcraft",
+                    "genero": ["Aventura","Ciencia ficcion"],
+                    "opinion": "Es una pelicula muy entretenida y"
+                }
+            ]
+        }
+    ]
+
+}
