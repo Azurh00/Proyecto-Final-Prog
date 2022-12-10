@@ -1,15 +1,111 @@
 {
     "usuarios":[
         {
-            "nombreUsuario": "Azurh",
+             "nombreUsuario": "Azurh",
             "recomendacion":[
                 {
                     "titulo": "Warcraft",
-                    "genero": ["Aventura","Ciencia ficcion"],
-                    "opinion": "Es una pelicula muy entretenida y"
+                    "genero": "Aventura, Ciencia ficcion, Fantasía medieval, Videojuego",
+                    "opinion": "Una de mis peliculas favoritas y me a ayudado a comprender mejor la historia del mismo juego"
+                },
+                {
+                    "titulo": "Spider-Man: No Way Home",
+                    "genero": "Ciencia ficción",
+                    "opinion": "Recomendable si te gusta el personaje y eres fan de los superheroes"
+                }
+            ]
+        },
+        {
+            "nombreUsuario": "Lucila",
+            "recomendacion":[
+                {
+                    "titulo": "Monsters, Inc",
+                    "genero": "Infantil, Fantasía, Animación, Comedia",
+                    "opinion": "muy entretenida"
+                },
+                {
+                    "titulo": "Venom 2",
+                    "genero": "Fantástico, Acción",
+                    "opinion": "me aburrio bastante"
+                }
+            ]
+        },
+        {
+            "nombreUsuario": "Marcos1997",
+            "recomendacion":[
+                {
+                    "titulo": "Warcraft",
+                    "genero": "Aventura, Ciencia ficcion, Fantasía medieval, Videojuego",
+                    "opinion": "La mejor pelicula!"
+                },
+                {
+                    "titulo": "Uncharted",
+                    "genero": "Aventuras, Acción",
+                    "opinion": "muy acorde al juego! recomendado"
+                }
+            ]
+        },
+        {
+            "nombreUsuario": "L O N G",
+            "recomendacion":[
+                {
+                    "titulo": "Tierra de Zombies",
+                    "genero": "Comedia, Acción, Terror",
+                    "opinion": "me rei mucho con esta peli muy recomendada"
+                }
+            ]
+        },
+        {
+            "nombreUsuario": "ShifterARG",
+            "recomendacion":[
+                {
+                    "titulo": "Asesino Sin Memoria",
+                    "genero": "Thriller",
+                    "opinion": "bastante entretenida y muy bueno"
+                },
+                {
+                    "titulo": "Spider-Man: No Way Home",
+                    "genero": "Ciencia Ficcion",
+                    "opinion": "La mejor pelicula!"
+                }
+            ]
+        },
+        {
+            "nombreUsuario": "Leandri",
+            "recomendacion":[
+                {
+                    "titulo": "Brothers",
+                    "genero": "Drama",
+                    "opinion": "super entretenida"
+                },
+                {
+                    "titulo": "El Código Enigma",
+                    "genero": "Drama, Thriller",
+                    "opinion": "muy buena historia"
+                }
+            ]
+        },
+        {
+            "nombreUsuario": "Lucho-bkcc",
+            "recomendacion":[
+                {
+                    "titulo": "Spider-Man: No Way Home",
+                    "genero": "Aventura, Ciencia ficcion",
+                    "opinion": "muy entretenida"
+                }
+            ]
+        },
+        {
+            "nombreUsuario": "ReNzo",
+            "recomendacion":[
+                {
+                    "titulo": "Warcraft",
+                    "genero": "Aventura, Ciencia ficcion, Fantasía medieval, Videojuego",
+                    "opinion": "muy buena historia"
                 }
             ]
         }
+
     ]
 
 }

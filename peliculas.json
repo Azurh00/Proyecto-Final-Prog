@@ -1,6 +1,14 @@
 {
     "peliculas":[
         {
+            "titulo": "Warcraft",
+            "fecha": "9 de junio de 2016",
+            "genero": "Aventuras | Fantasía medieval. Cine épico. Videojuego",
+            "director" : "Duncan Jones" ,
+            "duracion" : "123 Minutos",
+            "linkImagen": ""
+        },
+        {
             "titulo": "Spider-Man: No Way Home",
             "fecha": "13 de Diciembre de 2021",
             "genero" :"Ciencia Ficcion",
@@ -25,11 +33,59 @@
             "linkImagen": ""
         },
         {
-            "titulo": "Spider-Man: No Way Home",
-            "fecha": "13 de Diciembre de 2021",
-            "genero" :"",
-            "director" : "" ,
-            "duracion" : "148 Minutos",
+            "titulo": "El Código Enigma",
+            "fecha": "2014",
+            "genero" :"Drama, Thriller",
+            "director" : "Morten Tyldum" ,
+            "duracion" : "114 Minutos",
+            "linkImagen": ""
+        },
+        {
+            "titulo": "Monsters, Inc",
+            "fecha": "2001",
+            "genero" :"Infantil, Fantasía, Animación, Comedia",
+            "director" : "Pete Docter, Lee Unkrich, David Silverman",
+            "duracion" : "88  Minutos",
+            "linkImagen": ""
+        },
+        {
+            "titulo": "Tierra de Zombies",
+            "fecha": "25 de Septiembre de 2009",
+            "genero" :"Comedia, Acción, Terror",
+            "director" : "Ruben Fleischer" ,
+            "duracion" : "84 Minutos",
+            "linkImagen": ""
+        },
+        {
+            "titulo": "Asesino Sin Memoria",
+            "fecha": "28 de Abril de 2022",
+            "genero" :"Thriller",
+            "director" : "Martin Campbell" ,
+            "duracion" : "114 Minutos",
+            "linkImagen": ""
+        },
+        {
+            "titulo": "Venom 2",
+            "fecha": "14 de Septiembre de 2021",
+            "genero" :"Fantástico, Acción, Comedia",
+            "director" : "Andy Serkis" ,
+            "duracion" : "97 Minutos",
+            "linkImagen": ""
+        },
+        {
+            "titulo": "Moonfall",
+            "fecha": "02 de Febrero de 2022",
+            "genero" :"Ciencia ficción",
+            "director" : "Roland Emmerich" ,
+            "duracion" : "130 Minutos",
+            "linkImagen": ""
+        },
+        {
+            "titulo": "Uncharted",
+            "fecha": "08 de Febrero de 2022",
+            "genero" : "Aventuras, Acción",
+            "director" : "Ruben Fleischer",
+            "duracion" : "115 Minutos",
             "linkImagen": ""
         }
     ]
